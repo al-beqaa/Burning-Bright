@@ -1,0 +1,1 @@
+schedule function burnbright:half_second_clock 10t replace
